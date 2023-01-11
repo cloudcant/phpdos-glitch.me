@@ -1,3 +1,5 @@
-Syntax: ?host=TARGET&port=PORT&time=SECONDS&random=true
+# Just a shitty proof of concept exploit 
 
-UDP CONNECTION
+* Syntax: ?host=TARGET&port=PORT&time=SECONDS&random=true
+
+* UDP CONNECTION
